@@ -9,9 +9,11 @@ I am a Ph. D candidate in the Department of Electrical and Computer Engineering 
 I was born in Sari, Iran. I received my B.Sc degree in Computer Engineering from University of Guilan, Rasht, Iran where I have been graduated with honor (first rank among all CE sudents). I received my master degree (M.Sc) from the Sharif University of Technology (SUT) in Computer Engineering. 
 
 ### Education
-Ph.D. candidate in Computer Engineering, University of Waterloo, Ontario, Canada
-MS.c. in Computer Engineering, Sharif University of Technology, Tehran, Iran
-BS.c. in Computer Engineering, University of Guilan, Rasht, Iran
+**Ph.D.** candidate in Computer Engineering, University of Waterloo, Ontario, Canada 
+
+**MS.c.** in Computer Engineering, Sharif University of Technology, Tehran, Iran
+
+**BS.c.** in Computer Engineering, University of Guilan, Rasht, Iran
 
 ### Publication:
 
