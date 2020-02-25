@@ -2,11 +2,7 @@
 
 ## Reza Mirosanlou
 
-I am a Ph. D candidate in the Department of Electrical and Computer Engineering (ECE) at the University of Waterloo. My research is focused on real-time systems and memory architectures. Currently, I am working under supervision of Prof. Rodolfo Pellizzoni.
-
-### A Short Biography
-
-I was born in Sari, Iran. I received my B.Sc degree in Computer Engineering from University of Guilan, Rasht, Iran where I have been graduated with honor (first rank among all CE sudents). I received my master degree (M.Sc) from the Sharif University of Technology (SUT) in Computer Engineering. 
+I am a Ph.D. candidate in the department of Electrical and Computer Engineering at University of Waterloo (UW), advised by Professor Rodolfo Pellizzoni and co-advised by Professor Hiren Patel. I am interested in research problems that lie at the intersection of Real-time systems, Computer Architecture, and Memory Archiecture. My current research focus is on high-performance frameworks for real-time embedded systems. Before the Ph.D program at UW, I have received my MSc from Sharif University of Technology in the area of Computer Architecture where I have worked with Professor Seyed Ghassem Miremadi (may his soul rest in peace).
 
 ### Education
 **Ph.D.** candidate in Computer Engineering, University of Waterloo, Ontario, Canada 
