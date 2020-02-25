@@ -1,3 +1,5 @@
+![Image description](10906204_754822767906449_9186351623980503954_n.jpg)
+
 ## Reza Mirosanlou
 
 I am a Ph. D candidate in the Department of Electrical and Computer Engineering (ECE) at the University of Waterloo. My research is focused on real-time systems and memory architectures. Currently, I am working under supervision of Prof. Rodolfo Pellizzoni.
@@ -11,7 +13,7 @@ Ph.D. candidate in Computer Engineering, University of Waterloo, Ontario, Canada
 MS.c. in Computer Engineering, Sharif University of Technology, Tehran, Iran
 BS.c. in Computer Engineering, University of Guilan, Rasht, Iran
 
-### Publication
+### Publication:
 
 **Mirosanlou, R.**, Hassan, M., & Pellizzoni, R.. (To appear). DRAMbulism: Balancing Performance and Predictability through Dynamic Pipelining. In 26th IEEE Real-time and Embedded Technology and Applications Symposium **(RTAS'20)**.
 
@@ -21,6 +23,6 @@ Gracioli, G., Tabish, R., Mancuso, R., **Mirosanlou, R.**, Pellizzoni, R., & Cac
 
 Gracioli, G., Tabish, R., **Mirosanlou, R.**, Mancuso, R., Pellizzoni, R., & Caccamo, M.. (2019). Tech Report: A Virtualized Scratchpad-Based Architecture for Real-time Event-Triggered Applications
 
-![Image description](10906204_754822767906449_9186351623980503954_n.jpg)
+
 
 
