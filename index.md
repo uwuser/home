@@ -21,6 +21,6 @@ Mirosanlou, R., Taram, M., Shirmohammadi, Z., & Miremadi, S. - G.. (2019). 3DCAM
 
 Gracioli, G., Tabish, R., Mirosanlou, R., Mancuso, R., Pellizzoni, R., & Caccamo, M.. (2019). Tech Report: A Virtualized Scratchpad-Based Architecture for Real-time Event-Triggered Applications
 
-![Image description](link-to-image)
+![Image description](10906204_754822767906449_9186351623980503954_n.jpg)
 
 
