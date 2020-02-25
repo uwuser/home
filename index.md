@@ -13,19 +13,14 @@ BS.c. in Computer Engineering, University of Guilan, Rasht, Iran
 
 ### Publication
 
+Mirosanlou, R., Hassan, M., & Pellizzoni, R.. (Accepted). DRAMbulism: Balancing Performance and Predictability through Dynamic Pipelining. In 26th IEEE Real-time and Embedded Technology and Applications Symposium (RTAS'20).
 
-```markdown
-Syntax highlighted code block
+Gracioli, G., Tabish, R., Mancuso, R., Mirosanlou, R., Pellizzoni, R., & Caccamo, M.. (2019). Designing mixed criticality applications on modern heterogeneous mpsoc platforms. In 31st Euromicro Conference on Real-Time Systems (ECRTS'19) - Outstanding Paper Award.
 
-# Header 1
-## Header 2
-### Header 3
+Mirosanlou, R., Taram, M., Shirmohammadi, Z., & Miremadi, S. - G.. (2019). 3DCAM: A Low Overhead Crosstalk Avoidance Mechanism for TSV-Based 3D ICs. arXiv preprint arXiv:1901.00568, Initially accepted in International Conference on Computer Design (ICCD'15).
 
-- Bulleted
-- List
+Gracioli, G., Tabish, R., Mirosanlou, R., Mancuso, R., Pellizzoni, R., & Caccamo, M.. (2019). Tech Report: A Virtualized Scratchpad-Based Architecture for Real-time Event-Triggered Applications
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
