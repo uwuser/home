@@ -4,7 +4,8 @@
 
 I am a Ph.D. candidate in the department of Electrical and Computer Engineering at University of Waterloo (UW), advised by Professor Rodolfo Pellizzoni and co-advised by Professor Hiren Patel. I am interested in research problems that lie at the intersection of Real-time systems, Computer Architecture, and Memory Archiecture. My current research focus is on high-performance frameworks for real-time embedded systems. Before the Ph.D program at UW, I have received my MSc from Sharif University of Technology in the area of Computer Architecture where I have worked with Professor Seyed Ghassem Miremadi (may his soul rest in peace).
 
-### Education
+### Education:
+
 **Ph.D.** candidate in Computer Engineering, University of Waterloo, Ontario, Canada 
 
 **MS.c.** in Computer Engineering, Sharif University of Technology, Tehran, Iran
