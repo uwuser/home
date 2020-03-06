@@ -16,7 +16,7 @@ I am a Ph.D. candidate in the department of Electrical and Computer Engineering 
 
 5- **Mirosanlou, R.**, Hassan, M., & Pellizzoni, R.. (2020). Appendix on Balancing Performance and Predictability through Dynamic Pipelining. University of Waterloo, UWspace, 2020, [Download PDF](http://hdl.handle.net/10012/15678).
 
-4- **Mirosanlou, R.**, Hassan, M., & Pellizzoni, R.. (2020). DRAMbulism: Balancing Performance and Predictability through Dynamic Pipelining. In 26th IEEE Real-time and Embedded Technology and Applications Symposium (RTAS'20). Sydney, Australia. [Download PDF](https://github.com/uwuser/Homepage/blob/master/rtas2020-final104.pdf).
+4- **Mirosanlou, R.**, Hassan, M., & Pellizzoni, R.. (2020). DRAMbulism: Balancing Performance and Predictability through Dynamic Pipelining. In 26th IEEE Real-time and Embedded Technology and Applications Symposium (RTAS'20). Sydney, Australia.
 
 3- Gracioli, G., Tabish, R., Mancuso, R., **Mirosanlou, R.**, Pellizzoni, R., & Caccamo, M.. (2019). Designing mixed criticality applications on modern heterogeneous mpsoc platforms. In 31st Euromicro Conference on Real-Time Systems (ECRTS'19) - **Outstanding Paper Award**. Stuttgart, Germany. [Download PDF](https://drops.dagstuhl.de/opus/volltexte/2019/10764/pdf/LIPIcs-ECRTS-2019-27.pdf)
 
