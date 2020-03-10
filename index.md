@@ -12,7 +12,7 @@ I am a Ph.D. candidate in the department of Electrical and Computer Engineering 
 
 **BS.c.** in Computer Engineering, University of Guilan, Rasht, Iran
 
-### Publication<font size="3" color="red">
+### Publication:
 
 5- **Mirosanlou, R.**, Hassan, M., & Pellizzoni, R.. (2020). Appendix on Balancing Performance and Predictability through Dynamic Pipelining. University of Waterloo, UWspace, 2020, [Download PDF](http://hdl.handle.net/10012/15678).
 
