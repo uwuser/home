@@ -13,8 +13,8 @@ I am a Ph.D. candidate in the department of Electrical and Computer Engineering 
 **BS.c.** in Computer Engineering, University of Guilan, Rasht, Iran
 
 ### Publication:
-
-5- **Mirosanlou, R.**, Hassan, M., & Pellizzoni, R.. (2020). Appendix on Balancing Performance and Predictability through Dynamic Pipelining. University of Waterloo, UWspace, 2020, [Download PDF](http://hdl.handle.net/10012/15678).
+- salam
+5- **Mirosanlou, R.**, Hassan, M., & Pellizzoni, R.. (2020). Appendix on Balancing Performance and Predictability through Dynamic Pipelining. University of Waterloo, UWspace, 2020, [Download PDF](https://uwspace.uwaterloo.ca/bitstream/handle/10012/15678/TechReport-DRAMbulism.pdf?sequence=1&isAllowed=y).
 
 4- **Mirosanlou, R.**, Hassan, M., & Pellizzoni, R.. (2020). DRAMbulism: Balancing Performance and Predictability through Dynamic Pipelining. In 26th IEEE Real-time and Embedded Technology and Applications Symposium (RTAS'20). Sydney, Australia.
 
