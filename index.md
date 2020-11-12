@@ -20,7 +20,7 @@ I am a Ph.D. candidate in the department of Electrical and Computer Engineering 
 
 4- **Mirosanlou, R.**, Hassan, M., & Pellizzoni, R.. (2020). Appendix on Balancing Performance and Predictability through Dynamic Pipelining. University of Waterloo, UWspace, 2020. [Download PDF](https://uwspace.uwaterloo.ca/bitstream/handle/10012/15678/TechReport-DRAMbulism.pdf?sequence=1&isAllowed=y)
 
-3- Gracioli, G., Tabish, R., Mancuso, R., **Mirosanlou, R.**, Pellizzoni, R., & Caccamo, M.. (2019). Designing mixed criticality applications on modern heterogeneous mpsoc platforms. In 31st Euromicro Conference on Real-Time Systems (ECRTS'19) - **Outstanding Paper Award**. Stuttgart, Germany. [Download PDF](https://drops.dagstuhl.de/opus/volltexte/2019/10764/pdf/LIPIcs-ECRTS-2019-27.pdf)
+3- Gracioli, G., Tabish, R., Mancuso, R., **Mirosanlou, R.**, Pellizzoni, R., & Caccamo, M.. (2019). Designing mixed criticality applications on modern heterogeneous mpsoc platforms. In 31st Euromicro Conference on Real-Time Systems (ECRTS'19) - **Best Paper Nomination**. Stuttgart, Germany. [Download PDF](https://drops.dagstuhl.de/opus/volltexte/2019/10764/pdf/LIPIcs-ECRTS-2019-27.pdf)
 
 2- **Mirosanlou, R.**, Taram, M., Shirmohammadi, Z., & Miremadi, S. - G.. (2019). 3DCAM: A Low Overhead Crosstalk Avoidance Mechanism for TSV-Based 3D ICs. arXiv preprint arXiv:1901.00568, Initially accepted in International Conference on Computer Design (ICCD'15). New York, USA. [Download PDF](https://arxiv.org/pdf/1901.00568.pdf)
 
