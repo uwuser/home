@@ -12,6 +12,20 @@ I am a Ph.D. candidate in the department of Electrical and Computer Engineering 
 
 **BS.c.** in Computer Engineering, University of Guilan, Rasht, Iran
 
+### Awards:
+
+**Faculty of Engineering (FOE) Award**, November 2020.
+
+**Sir Sandford Flemming Foundation Award**, November 2020.
+
+**Faculty of Engineering (FOE) Award**, July 2020. 
+
+**Xilinx trainer certification on Ultrascale+ MPSoC platform**, February 2020.
+
+**Outstanding Paper Award**, June 2019.
+
+**Ranked 1st among all CE program students (~130 ppl) at the Guilan University**, July 2013.
+
 ### Publication:
 6- **Mirosanlou, R.**, Guo, D., Hassan, M., & Pellizzoni, R.. MCsim: An Extensible DRAM Memory Controller Simulator. In IEEE Computer Architecture Letters (CAL), pp. 1–4 2020. [Download PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9137661)
 
