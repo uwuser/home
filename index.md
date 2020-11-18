@@ -26,7 +26,7 @@ I am a Ph.D. candidate in the department of Electrical and Computer Engineering 
 
 **1- Ranked 1st among all CE program students (~130 ppl)**, University of Guilan July 2013.
 
-### Publication:
+### Publications:
 
 6- **Mirosanlou, R.**, Guo, D., Hassan, M., & Pellizzoni, R.. MCsim: An Extensible DRAM Memory Controller Simulator. In IEEE Computer Architecture Letters (CAL), pp. 1–4 2020. [Download PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9137661)
 
