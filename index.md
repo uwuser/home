@@ -14,19 +14,20 @@ I am a Ph.D. candidate in the department of Electrical and Computer Engineering 
 
 ### Awards:
 
-**Faculty of Engineering (FOE) Award**, November 2020.
+**6- Faculty of Engineering (FOE) Award**, University of Waterloo, November 2020.
 
-**Sir Sandford Flemming Foundation Award**, November 2020.
+**5- Sir Sandford Flemming Foundation Award**, University of Waterloo, November 2020.
 
-**Faculty of Engineering (FOE) Award**, July 2020. 
+**4- Faculty of Engineering (FOE) Award**, University of Waterloo, July 2020. 
 
-**Xilinx trainer certification on Ultrascale+ MPSoC platform**, February 2020.
+**3- Xilinx trainer certification on Ultrascale+ MPSoC platform**, Xilinx Inc., February 2020.
 
-**Outstanding Paper Award**, June 2019.
+**2- Outstanding Paper Award**, Euromicro Conference on Real-Time Systems (ECRTS), June 2019.
 
-**Ranked 1st among all CE program students (~130 ppl) at the Guilan University**, July 2013.
+**1- Ranked 1st among all CE program students (~130 ppl)**, University of Guilan July 2013.
 
 ### Publication:
+
 6- **Mirosanlou, R.**, Guo, D., Hassan, M., & Pellizzoni, R.. MCsim: An Extensible DRAM Memory Controller Simulator. In IEEE Computer Architecture Letters (CAL), pp. 1–4 2020. [Download PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9137661)
 
 5- **Mirosanlou, R.**, Hassan, M., & Pellizzoni, R.. (2020). DRAMbulism: Balancing Performance and Predictability through Dynamic Pipelining. In 26th IEEE Real-time and Embedded Technology and Applications Symposium (RTAS'20). Sydney, Australia.
