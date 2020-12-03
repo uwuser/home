@@ -2,7 +2,7 @@
 
 ## Reza Mirosanlou
 
-I am a Ph.D. candidate in the department of Electrical and Computer Engineering at University of Waterloo (UW), advised by Professor Rodolfo Pellizzoni and co-advised by Professor Hiren Patel. I am interested in research problems that lie at the intersection of Real-time systems, Computer Architecture, and Memory Architecture. My current research focus is on high-performance frameworks for real-time embedded systems. Before the Ph.D program at UW, I have received my MSc from Sharif University of Technology in the area of Computer Architecture where I have worked with Professor Seyed Ghassem Miremadi (may his soul rest in peace).
+I am a Ph.D. candidate in the department of Electrical and Computer Engineering at University of Waterloo, advised by Professor Rodolfo Pellizzoni and co-advised by Professor Hiren Patel. I am interested in research problems that lie at the intersection of Real-time systems, Computer Architecture, and Memory Architecture. My current research focus is on high-performance frameworks for real-time embedded systems. Before the Ph.D program at UW, I have received my MSc from Sharif University of Technology in the area of Computer Architecture where I have worked with Professor Seyed Ghassem Miremadi (may his soul rest in peace).
 
 ### Education:
 
@@ -28,7 +28,7 @@ I am a Ph.D. candidate in the department of Electrical and Computer Engineering 
 
 ### Publications:
 
-7- **Mirosanlou, R.**, Hassan, M., & Pellizzoni, R.. Duetto: Latency Guarantees at Minimal Performance Cost. In IEEE/ACM Design Automation and Test in Europe (DATE), pp. 1-6 2021. [Download PDF]()
+7- **Mirosanlou, R.**, Hassan, M., & Pellizzoni, R.. (2021). Duetto: Latency Guarantees at Minimal Performance Cost. In 24th IEEE/ACM Design Automation and Test in Europe (DATE'21). Grenoble, France. [Download PDF]()
 
 6- **Mirosanlou, R.**, Guo, D., Hassan, M., & Pellizzoni, R.. MCsim: An Extensible DRAM Memory Controller Simulator. In IEEE Computer Architecture Letters (CAL), pp. 105–109 2020. [Download PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9137661)
 
