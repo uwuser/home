@@ -28,6 +28,8 @@ I am a Ph.D. candidate in the department of Electrical and Computer Engineering 
 
 ### Publications:
 
+6- **Mirosanlou, R.**, Hassan, M., & Pellizzoni, R.. Duetto: Latency Guarantees at Minimal Performance Cost. In IEEE/ACM Design Automation and Test in Europe (DATE), pp.--- 2021. [Download PDF]()
+
 6- **Mirosanlou, R.**, Guo, D., Hassan, M., & Pellizzoni, R.. MCsim: An Extensible DRAM Memory Controller Simulator. In IEEE Computer Architecture Letters (CAL), pp. 1–4 2020. [Download PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9137661)
 
 5- **Mirosanlou, R.**, Hassan, M., & Pellizzoni, R.. (2020). DRAMbulism: Balancing Performance and Predictability through Dynamic Pipelining. In 26th IEEE Real-time and Embedded Technology and Applications Symposium (RTAS'20). Sydney, Australia.
