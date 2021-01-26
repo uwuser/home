@@ -28,18 +28,20 @@ I am a Ph.D. candidate in the department of Electrical and Computer Engineering 
 
 ### Publications:
 
-6- **Mirosanlou, R.**, Guo, D., Hassan, M., & Pellizzoni, R.. MCsim: An Extensible DRAM Memory Controller Simulator. In IEEE Computer Architecture Letters (CAL), pp. 105–109 2020. [Download PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9137661)
+7- 6- **Mirosanlou, R.**, Hassan, M., & Pellizzoni, R.. Duetto: Latency Guarantees at Minimal Performance Cost. In IEEE/ACM Design, Automation and Test in Europe Conference **(DATE'21)**, Grenoble, France, 2020. [Download PDF]()
 
-5- **Mirosanlou, R.**, Hassan, M., & Pellizzoni, R.. (2020). DRAMbulism: Balancing Performance and Predictability through Dynamic Pipelining. In 26th IEEE Real-time and Embedded Technology and Applications Symposium (RTAS'20). Sydney, Australia.
+6- **Mirosanlou, R.**, Guo, D., Hassan, M., & Pellizzoni, R.. MCsim: An Extensible DRAM Memory Controller Simulator. In IEEE Computer Architecture Letters **(CAL)**, pp. 105–109 2020. [Download PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9137661)
+
+5- **Mirosanlou, R.**, Hassan, M., & Pellizzoni, R.. (2020). DRAMbulism: Balancing Performance and Predictability through Dynamic Pipelining. In 26th IEEE Real-time and Embedded Technology and Applications Symposium **(RTAS'20)**. Sydney, Australia.
  [Download PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9113103)
 
-4- **Mirosanlou, R.**, Hassan, M., & Pellizzoni, R.. (2020). Appendix on Balancing Performance and Predictability through Dynamic Pipelining. University of Waterloo, UWspace, 2020. [Download PDF](https://uwspace.uwaterloo.ca/bitstream/handle/10012/15678/TechReport-DRAMbulism.pdf?sequence=1&isAllowed=y)
+4- **Mirosanlou, R.**, Hassan, M., & Pellizzoni, R.. (2020). Appendix on Balancing Performance and Predictability through Dynamic Pipelining. **University of Waterloo**, UWspace, 2020. [Download PDF](https://uwspace.uwaterloo.ca/bitstream/handle/10012/15678/TechReport-DRAMbulism.pdf?sequence=1&isAllowed=y)
 
-3- Gracioli, G., Tabish, R., Mancuso, R., **Mirosanlou, R.**, Pellizzoni, R., & Caccamo, M.. (2019). Designing mixed criticality applications on modern heterogeneous mpsoc platforms. In 31st Euromicro Conference on Real-Time Systems (ECRTS'19) - **Best Paper Nomination**. Stuttgart, Germany. [Download PDF](https://drops.dagstuhl.de/opus/volltexte/2019/10764/pdf/LIPIcs-ECRTS-2019-27.pdf)
+3- Gracioli, G., Tabish, R., Mancuso, R., **Mirosanlou, R.**, Pellizzoni, R., & Caccamo, M.. (2019). Designing mixed criticality applications on modern heterogeneous mpsoc platforms. In 31st Euromicro Conference on Real-Time Systems **(ECRTS'19)** - **Best Paper Nomination**. Stuttgart, Germany, 2019. [Download PDF](https://drops.dagstuhl.de/opus/volltexte/2019/10764/pdf/LIPIcs-ECRTS-2019-27.pdf)
 
-2- **Mirosanlou, R.**, Taram, M., Shirmohammadi, Z., & Miremadi, S. - G.. (2019). 3DCAM: A Low Overhead Crosstalk Avoidance Mechanism for TSV-Based 3D ICs. arXiv preprint arXiv:1901.00568, Initially accepted in International Conference on Computer Design (ICCD'15). New York, USA. [Download PDF](https://arxiv.org/pdf/1901.00568.pdf)
+2- **Mirosanlou, R.**, Taram, M., Shirmohammadi, Z., & Miremadi, S. - G.. (2019). 3DCAM: A Low Overhead Crosstalk Avoidance Mechanism for TSV-Based 3D ICs. arXiv preprint arXiv:1901.00568, accepted in International Conference on Computer Design **(ICCD'15)**. New York, USA. [Download PDF](https://arxiv.org/pdf/1901.00568.pdf)
 
-1- Gracioli, G., Tabish, R., **Mirosanlou, R.**, Mancuso, R., Pellizzoni, R., & Caccamo, M.. (2019). Tech Report: A Virtualized Scratchpad-Based Architecture for Real-time Event-Triggered Applications, Technical University of Munich. [Download PDF](https://mediatum.ub.tum.de/doc/1475015/file.pdf)
+1- Gracioli, G., Tabish, R., **Mirosanlou, R.**, Mancuso, R., Pellizzoni, R., & Caccamo, M.. (2019). Tech Report: A Virtualized Scratchpad-Based Architecture for Real-time Event-Triggered Applications, **Technical University of Munich**. [Download PDF](https://mediatum.ub.tum.de/doc/1475015/file.pdf)
 
 
 
