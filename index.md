@@ -28,8 +28,6 @@ I am a Ph.D. candidate in the department of Electrical and Computer Engineering 
 
 ### Publications:
 
-8- Gracioli, G., Kloda, T., Tabish, R., **Mirosanlou, R.**, Mancuso, R., Pellizzoni, R., & Caccamo, M.. Mixed Criticality Applications on Modern Heterogeneous MPSoCs: Analysis and Implementation. Under consideration at IEEE Transactions on Computers **(TC)**.
-
 7- **Mirosanlou, R.**, Hassan, M., & Pellizzoni, R.. Duetto: Latency Guarantees at Minimal Performance Cost. In IEEE/ACM Design, Automation and Test in Europe Conference **(DATE'21)**, Grenoble, France, 2020. [Download PDF]()
 
 6- **Mirosanlou, R.**, Guo, D., Hassan, M., & Pellizzoni, R.. MCsim: An Extensible DRAM Memory Controller Simulator. In IEEE Computer Architecture Letters **(CAL)**, pp. 105–109 2020. [Download PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9137661)
