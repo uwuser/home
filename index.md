@@ -14,6 +14,8 @@ I am a Ph.D. candidate in the department of Electrical and Computer Engineering 
 
 ### Awards:
 
+**7- Faculty of Engineering (FOE) Award**, University of Waterloo, February 2021.
+
 **6- Faculty of Engineering (FOE) Award**, University of Waterloo, November 2020.
 
 **5- Sir Sandford Flemming Foundation Award**, University of Waterloo, November 2020.
