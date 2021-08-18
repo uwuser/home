@@ -30,7 +30,9 @@ I am a Ph.D. candidate in the department of Electrical and Computer Engineering 
 
 ### Publications:
 
-7- **Mirosanlou, R.**, Hassan, M., & Pellizzoni, R.. Duetto: Latency Guarantees at Minimal Performance Cost. In IEEE/ACM Design, Automation and Test in Europe Conference **(DATE'21)**, Grenoble, France, 2020. [Download PDF](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiSuoqWvZTwAhUNOs0KHTUNDJ0QFjABegQIBhAE&url=https%3A%2F%2Fuwspace.uwaterloo.ca%2Fbitstream%2Fhandle%2F10012%2F16893%2F1869.pdf%3Fsequence%3D1%26isAllowed%3Dy&usg=AOvVaw0AkvHPVgnqZxh0Nsse5S6g)
+8- **Mirosanlou, R.**, Hassan, M., & Pellizzoni, R.. DuoMC: Tight DRAM Latency Bounds with Shared Banks and Near-COTS Performance. Accepted in ACM The International Symposium on Memory Systems **(MEMSYS'21)**, Washington D.C., USA, 2021. [Download PDF]()
+
+7- **Mirosanlou, R.**, Hassan, M., & Pellizzoni, R.. Duetto: Latency Guarantees at Minimal Performance Cost. In IEEE/ACM Design, Automation and Test in Europe Conference **(DATE'21)**, Grenoble, France, 2021. [Download PDF](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiSuoqWvZTwAhUNOs0KHTUNDJ0QFjABegQIBhAE&url=https%3A%2F%2Fuwspace.uwaterloo.ca%2Fbitstream%2Fhandle%2F10012%2F16893%2F1869.pdf%3Fsequence%3D1%26isAllowed%3Dy&usg=AOvVaw0AkvHPVgnqZxh0Nsse5S6g)
 
 6- **Mirosanlou, R.**, Guo, D., Hassan, M., & Pellizzoni, R.. MCsim: An Extensible DRAM Memory Controller Simulator. In IEEE Computer Architecture Letters **(CAL)**, pp. 105–109 2020. [Download PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9137661)
 
