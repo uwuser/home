@@ -6,7 +6,7 @@ I am a Ph.D. candidate in the department of Electrical and Computer Engineering 
 
 ### Education:
 
-**Ph.D.** candidate in Computer Engineering, University of Waterloo
+**Ph.D.** Candidate in Computer Engineering, University of Waterloo
 
 **MS.c.** in Computer Engineering, Sharif University of Technology
 
