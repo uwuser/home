@@ -14,6 +14,8 @@ I am a Ph.D. candidate in the department of Electrical and Computer Engineering 
 
 ### Awards:
 
+**8- Doctoral Thesis Completion Award (DTCA)**, University of Waterloo, September 2021.
+
 **7- Faculty of Engineering (FOE) Award**, University of Waterloo, February 2021.
 
 **6- Faculty of Engineering (FOE) Award**, University of Waterloo, November 2020.
