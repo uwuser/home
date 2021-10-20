@@ -28,7 +28,7 @@ Ph.D. candidate in the department of Electrical and Computer Engineering at Univ
 
 **2- Outstanding Paper Award**, Euromicro Conference on Real-Time Systems (ECRTS), June 2019.
 
-**1- Ranked 1st among all CE program students (~130 students)**, University of Guilan July 2013.
+**1- Ranked 1st among all undergraduate CE program students (~130 students)**, July 2013.
 
 ### Publications:
 
