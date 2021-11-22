@@ -32,6 +32,10 @@ Ph.D. candidate in the department of Electrical and Computer Engineering at Univ
 
 ### Publications:
 
+10- Kloda, T., Gracioli, G., Tabish, R., **Mirosanlou, R.**, Mancuso, R., Pellizzoni, R., Caccamo, M.. Lazy Load Scheduling for Mixed-Criticality Applications in Heterogeneous MPSoCs, in submission at ACM Transaction on Embedded Computing Systems **(TECS)**.
+
+9- Tabish, R., Pellizzoni, R., Mancuso, R., Gracioli, G., **Mirosanlou, R.**, Caccamo, M.. X-Stream: Accelerating Streaming Segments on Modern MPSoCs”, in submission at ACM Transaction on Embedded Computing Systems **(TECS)**.
+
 8- **Mirosanlou, R.**, Hassan, M., & Pellizzoni, R.. DuoMC: Tight DRAM Latency Bounds with Shared Banks and Near-COTS Performance. Accepted in ACM International Symposium on Memory Systems **(MEMSYS'21)**, Washington D.C., USA, 2021. [Download PDF]()
 
 7- **Mirosanlou, R.**, Hassan, M., & Pellizzoni, R.. Duetto: Latency Guarantees at Minimal Performance Cost. In IEEE/ACM Design, Automation and Test in Europe Conference **(DATE'21)**, Grenoble, France, 2021. [Download PDF](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiSuoqWvZTwAhUNOs0KHTUNDJ0QFjABegQIBhAE&url=https%3A%2F%2Fuwspace.uwaterloo.ca%2Fbitstream%2Fhandle%2F10012%2F16893%2F1869.pdf%3Fsequence%3D1%26isAllowed%3Dy&usg=AOvVaw0AkvHPVgnqZxh0Nsse5S6g)
