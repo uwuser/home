@@ -32,7 +32,7 @@ Ph.D. candidate in the department of Electrical and Computer Engineering at Univ
 
 ### Publications:
 
-10- Kloda, T., Gracioli, G., Tabish, R., **Mirosanlou, R.**, Mancuso, R., Pellizzoni, R., Caccamo, M.. Lazy Load Scheduling for Mixed-Criticality Applications. In Heterogeneous MPSoCs, in submission at **ACM Transaction on Embedded Computing Systems (TECS)**.
+10- Kloda, T., Gracioli, G., Tabish, R., **Mirosanlou, R.**, Mancuso, R., Pellizzoni, R., Caccamo, M.. Lazy Load Scheduling for Mixed-Criticality Applications Heterogeneous MPSoCs. In submission at **ACM Transaction on Embedded Computing Systems (TECS)**.
 
 9- Tabish, R., Pellizzoni, R., Mancuso, R., Gracioli, G., **Mirosanlou, R.**, Caccamo, M.. X-Stream: Accelerating Streaming Segments on Modern MPSoCs. In submission at **ACM Transaction on Embedded Computing Systems (TECS)**.
 
