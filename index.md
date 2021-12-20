@@ -2,11 +2,11 @@
 
 ## Reza Mirosanlou
 
-Ph.D. candidate in the department of Electrical and Computer Engineering at University of Waterloo, advised by Professor Rodolfo Pellizzoni. Interested in research/industry problems that lie at the intersection of Real-time systems, Computer Architecture, and Memory Architecture. Current research focus is on high-performance frameworks for real-time embedded systems. Before the Ph.D program at UW, I have received my M.Sc. from Sharif University of Technology in the area of Computer Architecture where I have worked with Professor Seyed Ghassem Miremadi (may his soul rest in peace).
+I received my Ph.D. in Electrical and Computer Engineering from the University of Waterloo in which I have worked with Professor Rodolfo Pellizzoni. My interests are focused on research/industry problems that lie at the intersection of computer architecture and memory subsystem. My research while being Ph.D student at University of Waterloo was on high-performance frameworks for real-time embedded systems. Before the Ph.D program at University of Waterloo, I have received my M.Sc. from Sharif University of Technology in the area of Computer Architecture where I have worked with Professor Seyed Ghassem Miremadi (may his soul rest in peace).
 
 ### Education:
 
-**Ph.D.** Candidate in Computer Engineering, University of Waterloo
+**Ph.D.** in Computer Engineering, University of Waterloo
 
 **MS.c.** in Computer Engineering, Sharif University of Technology
 
