@@ -2,7 +2,7 @@
 
 ## Reza Mirosanlou
 
-I received my Ph.D. in Electrical and Computer Engineering from the University of Waterloo in which I have worked with Professor Rodolfo Pellizzoni. My interests are focused on research/industry problems that lie at the intersection of computer architecture and memory subsystem. My research while being Ph.D student at University of Waterloo was on high-performance frameworks for real-time embedded systems. Before the Ph.D program at University of Waterloo, I have received my M.Sc. from Sharif University of Technology in the area of Computer Architecture where I have worked with Professor Seyed Ghassem Miremadi (may his soul rest in peace).
+I received my Ph.D. in Electrical and Computer Engineering from the University of Waterloo. My interests are focused on research/industry problems that lie at the intersection of computer architecture and memory subsystem. My research while being Ph.D student at University of Waterloo was on high-performance frameworks for real-time embedded systems. Before the Ph.D program at University of Waterloo, I have received my M.Sc. from Sharif University of Technology in the area of Computer Architecture.
 
 ### Education:
 
@@ -34,7 +34,7 @@ I received my Ph.D. in Electrical and Computer Engineering from the University o
 
 10- Kloda, T., Gracioli, G., Tabish, R., **Mirosanlou, R.**, Mancuso, R., Pellizzoni, R., Caccamo, M.. Lazy Load Scheduling for Mixed-Criticality Applications Heterogeneous MPSoCs. In submission at **ACM Transaction on Embedded Computing Systems (TECS)**.
 
-9- Tabish, R., Pellizzoni, R., Mancuso, R., Gracioli, G., **Mirosanlou, R.**, Caccamo, M.. X-Stream: Accelerating Streaming Segments on Modern MPSoCs. In submission at **ACM Transaction on Embedded Computing Systems (TECS)**.
+9- Tabish, R., Pellizzoni, R., Mancuso, R., Gracioli, G., **Mirosanlou, R.**, Caccamo, M.. X-Stream: Accelerating Streaming Segments on Modern MPSoCs. **Under preparation**.
 
 8- **Mirosanlou, R.**, Hassan, M., & Pellizzoni, R.. DuoMC: Tight DRAM Latency Bounds with Shared Banks and Near-COTS Performance. Accepted in **ACM International Symposium on Memory Systems (MEMSYS'21)**, Washington D.C., USA, 2021. [Download PDF]()
 
