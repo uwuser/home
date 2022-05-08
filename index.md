@@ -2,7 +2,7 @@
 
 ## Reza Mirosanlou
 
-I received my Ph.D. in Electrical and Computer Engineering from the University of Waterloo. My interests are focused on research/industry problems that lie at the intersection of computer architecture and memory subsystem. My research while being Ph.D student at University of Waterloo was on high-performance frameworks for real-time embedded systems. Before the Ph.D program at University of Waterloo, I have received my M.Sc. from Sharif University of Technology in the area of Computer Architecture.
+I'm currently a **Senior Sillicon Design Engineer** at **AMD**, focusing on performane and power of I/O designs for the next generation of AMD products including client, data centre, and server processors. I completed my **Ph.D.** in Computer Enfgineering at the **University of Waterloo** in December 2021, and my research has contributed to several publications in "shared hardware arbitration and high-performance frameworks for real-time systems". I am known for collaborating very effectively, leadding skills in research projects. I have extensive research expertise in real-time systems and I have serrved in all premier real-time conferences and symposiums including **RTAS, RTSS, ECRTS, and RTNS**. Before the Ph.D program at University of Waterloo, I have received my **M.Sc.** from **Sharif University of Technology** in Computer Engineering.
 
 ### Education:
 
@@ -30,7 +30,23 @@ I received my Ph.D. in Electrical and Computer Engineering from the University o
 
 **1- Ranked 1st among all undergraduate CE program students (~130 students)**, July 2013.
 
+### Volunteering Service:
+
+**Secretary of Professional Activities with IEEE Canada Kitchener/Waterloo Section.
+
+### Technical/Research Committee Services:
+
+**Technical Program Committee Member in Real-time Application Symposium RTAS AE 2022. 
+**Program Committee Member in 15th Junior Researcher Workshop on Real-Time Computing JRWRTC 2022 (part of RTNS).
+**External Reviewer in Real-time System Symposium RTSS 2021.
+**External Reviewer in Euromicro Conference on Real-Time Systems ECRTS 2021. 
+**External Reviewer in Real-time Application Symposium RTAS 2021.
+**External Reviewer in Real-time System Symposium RTSS 2020. 
+
+
 ### Publications:
+
+11- **Mirosanlou, R.**, Hassan, M., Pellizzoni, R.. Parallelism-Aware High-Performance Cache Coherence with Tight Latency Bounds. To appear at **34th Euromicro Conference on Real-Time Systems (ECRTS 2022)**.
 
 10- Kloda, T., Gracioli, G., Tabish, R., **Mirosanlou, R.**, Mancuso, R., Pellizzoni, R., Caccamo, M.. Lazy Load Scheduling for Mixed-Criticality Applications Heterogeneous MPSoCs. In submission at **ACM Transaction on Embedded Computing Systems (TECS)**.
 
