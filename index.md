@@ -36,17 +36,17 @@ I'm currently a **Senior Sillicon Design Engineer** at **AMD**, focusing on perf
 
 ### Technical/Research Committee Services:
 
-**6- Technical Program Committee Member in Real-time Application Symposium RTAS AE 2022.** 
+**6- Technical Program Committee Member in Real-time Application Symposium RTAS AE 2022.** [Link](http://2022.rtas.org/artifact-evaluation/)
 
-**5- Program Committee Member in 15th Junior Researcher Workshop on Real-Time Computing JRWRTC 2022 (part of RTNS).**
+**5- Program Committee Member in 15th Junior Researcher Workshop on Real-Time Computing JRWRTC 2022 (part of RTNS).** [Link](https://rtns2022.inria.fr/jrwrtc-2022/)
 
-**4- External Reviewer in Real-time System Symposium RTSS 2021.**
+**4- External Reviewer in Real-time System Symposium RTSS 2021.** [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=962239)
 
-**3- External Reviewer in Euromicro Conference on Real-Time Systems ECRTS 2021.**
+**3- External Reviewer in Euromicro Conference on Real-Time Systems ECRTS 2021.** [Link](ttps://drops.dagstuhl.de/opus/volltexte/2021/13931/pdf/LIPIcs-ECRTS-2021-0.pdf)
 
-**2- External Reviewer in Real-time Application Symposium RTAS 2021.**
+**2- External Reviewer in Real-time Application Symposium RTAS 2021.** [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9470442)
 
-**1- External Reviewer in Real-time System Symposium RTSS 2020.**
+**1- External Reviewer in Real-time System Symposium RTSS 2020.** [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9355525)
 
 
 
