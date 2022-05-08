@@ -42,11 +42,11 @@ I'm currently a **Senior Sillicon Design Engineer** at **AMD**, focusing on perf
 
 **4- External Reviewer in Real-time System Symposium RTSS 2021.**
 
-**3- External Reviewer in Euromicro Conference on Real-Time Systems ECRTS 2021. **
+**3- External Reviewer in Euromicro Conference on Real-Time Systems ECRTS 2021.**
 
 **2- External Reviewer in Real-time Application Symposium RTAS 2021.**
 
-**1- External Reviewer in Real-time System Symposium RTSS 2020. **
+**1- External Reviewer in Real-time System Symposium RTSS 2020.**
 
 
 
