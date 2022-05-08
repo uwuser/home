@@ -52,7 +52,7 @@ I'm currently a **Senior Sillicon Design Engineer** at **AMD**, focusing on perf
 
 ### Publications:
 
-11- **Mirosanlou, R.**, Hassan, M., Pellizzoni, R.. Parallelism-Aware High-Performance Cache Coherence with Tight Latency Bounds. To appear at **34th Euromicro Conference on Real-Time Systems (ECRTS 2022)**.
+11- **Mirosanlou, R.**, Hassan, M., Pellizzoni, R.. Parallelism-Aware High-Performance Cache Coherence with Tight Latency Bounds. To appear at **34th Euromicro Conference on Real-Time Systems (ECRTS 2022), Modena, Italy, 2022**. [Link](https://www.ecrts.org/conference-program/) 
 
 10- Kloda, T., Gracioli, G., Tabish, R., **Mirosanlou, R.**, Mancuso, R., Pellizzoni, R., Caccamo, M.. Lazy Load Scheduling for Mixed-Criticality Applications Heterogeneous MPSoCs. In submission at **ACM Transaction on Embedded Computing Systems (TECS)**.
 
