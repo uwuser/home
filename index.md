@@ -32,16 +32,16 @@ I'm currently a **Senior Sillicon Design Engineer** at **AMD**, focusing on perf
 
 ### Volunteering Service:
 
-**Secretary of Professional Activities with IEEE Canada Kitchener/Waterloo Section.
+**Secretary of Professional Activities with IEEE Canada Kitchener/Waterloo Section.**
 
 ### Technical/Research Committee Services:
 
-**Technical Program Committee Member in Real-time Application Symposium RTAS AE 2022. 
-**Program Committee Member in 15th Junior Researcher Workshop on Real-Time Computing JRWRTC 2022 (part of RTNS).
-**External Reviewer in Real-time System Symposium RTSS 2021.
-**External Reviewer in Euromicro Conference on Real-Time Systems ECRTS 2021. 
-**External Reviewer in Real-time Application Symposium RTAS 2021.
-**External Reviewer in Real-time System Symposium RTSS 2020. 
+**Technical Program Committee Member in Real-time Application Symposium RTAS AE 2022.** 
+**Program Committee Member in 15th Junior Researcher Workshop on Real-Time Computing JRWRTC 2022 (part of RTNS).**
+**External Reviewer in Real-time System Symposium RTSS 2021.**
+**External Reviewer in Euromicro Conference on Real-Time Systems ECRTS 2021. **
+**External Reviewer in Real-time Application Symposium RTAS 2021.**
+**External Reviewer in Real-time System Symposium RTSS 2020. **
 
 
 ### Publications:
