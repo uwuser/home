@@ -2,7 +2,7 @@
 
 ## Reza Mirosanlou
 
-I'm currently a **Senior Sillicon Design Engineer** at **AMD**, focusing on performane and power of I/O designs for the next generation of AMD products including client, data centre, and server processors. I completed my **Ph.D.** in Computer Enfgineering at the **University of Waterloo** in December 2021, and my research has contributed to several publications in "shared hardware arbitration and high-performance frameworks for real-time systems". I am known for collaborating very effectively, leadding skills in research projects. I have extensive research expertise in real-time systems and I have serrved in all premier real-time conferences and symposiums including **RTAS, RTSS, ECRTS, and RTNS**. Before the Ph.D program at University of Waterloo, I have received my **M.Sc.** from **Sharif University of Technology** in Computer Engineering.
+I'm currently a **Senior Sillicon Design Engineer** at **AMD**, focusing on performane and power of I/O designs for the next generation of AMD products including client, data centre, and server processors. I completed my **Ph.D.** in Computer Enfgineering at the **University of Waterloo** in December 2021, and my research has contributed to several publications in "shared hardware arbitration and high-performance frameworks for real-time systems". I am known for collaborating very effectively and leadding skills in research projects. I have extensive research expertise in real-time systems and I have serrved in Program Committee of premier real-time conferences and symposiums including **RTAS, RTSS, ECRTS, and RTNS**. Before the Ph.D program at University of Waterloo, I have received my **M.Sc.** from **Sharif University of Technology** in Computer Engineering.
 
 ### Education:
 
@@ -32,7 +32,7 @@ I'm currently a **Senior Sillicon Design Engineer** at **AMD**, focusing on perf
 
 ### Volunteering Service:
 
-**Secretary of Professional Activities with IEEE Canada Kitchener/Waterloo Section.**
+Secretary of Professional Activities with IEEE Canada Kitchener/Waterloo Section.
 
 ### Technical/Research Committee Services:
 
