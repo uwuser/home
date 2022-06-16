@@ -37,8 +37,6 @@ Secretary of Professional Activities with IEEE Canada Kitchener/Waterloo Section
 
 **5- Technical Program Committee Member in Real-time Application Symposium RTAS AE 2022.** [Link](http://2022.rtas.org/artifact-evaluation/)
 
-<! --**5- Program Committee Member in 15th Junior Researcher Workshop on Real-Time Computing JRWRTC 2022 (part of RTNS).** [Link](https://rtns2022.inria.fr/jrwrtc-2022/)-->
-
 **4- External Reviewer in Real-time System Symposium RTSS 2021.** [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=962239)
 
 **3- External Reviewer in Euromicro Conference on Real-Time Systems ECRTS 2021.** [Link](ttps://drops.dagstuhl.de/opus/volltexte/2021/13931/pdf/LIPIcs-ECRTS-2021-0.pdf)
