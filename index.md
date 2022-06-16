@@ -1,7 +1,7 @@
 
 ## Reza Mirosanlou
 
-I am currently a **Senior Sillicon Design Engineer** at **AMD**, focusing on performane of I/O module designs for the next generation of AMD products including client, data centre, and server processors. I completed my **Ph.D.** in Computer Enfgineering at the **University of Waterloo** in December 2021, and my research has contributed to several publications in "shared hardware arbitration and high-performance frameworks for real-time systems". I am known for collaborating very effectively and leadding skills in research projects. I have extensive research expertise in real-time systems and I have serrved as either Technical Program Committee member or reviewer of premier real-time conferences and symposiums including **RTAS, RTSS, ECRTS, and RTNS**. Before the Ph.D program at University of Waterloo, I have received my **M.Sc.** from **Sharif University of Technology** in Computer Engineering.
+I am currently a **Senior Sillicon Design Engineer** at **AMD**, focusing on performane of I/O module designs for the next generation of AMD products including client, data centre, and server processors. I completed my **Ph.D.** in Computer Engineering at the **University of Waterloo** in December 2021, and my research has contributed to several publications in "shared hardware arbitration and high-performance frameworks for real-time systems". I am known for collaborating very effectively and leadding skills in research projects. I have extensive research expertise in real-time systems and I have serrved as either Technical Program Committee member or reviewer of premier real-time conferences and symposiums including **RTAS, RTSS, ECRTS, and RTNS**. Before the Ph.D program at University of Waterloo, I have received my **M.Sc.** from **Sharif University of Technology** in Computer Engineering.
 
 ### Education:
 
@@ -35,9 +35,9 @@ Secretary of Professional Activities with IEEE Canada Kitchener/Waterloo Section
 
 ### Technical/Research Committee Services:
 
-**6- Technical Program Committee Member in Real-time Application Symposium RTAS AE 2022.** [Link](http://2022.rtas.org/artifact-evaluation/)
+**5- Technical Program Committee Member in Real-time Application Symposium RTAS AE 2022.** [Link](http://2022.rtas.org/artifact-evaluation/)
 
-**5- Program Committee Member in 15th Junior Researcher Workshop on Real-Time Computing JRWRTC 2022 (part of RTNS).** [Link](https://rtns2022.inria.fr/jrwrtc-2022/)
+<! --**5- Program Committee Member in 15th Junior Researcher Workshop on Real-Time Computing JRWRTC 2022 (part of RTNS).** [Link](https://rtns2022.inria.fr/jrwrtc-2022/)-->
 
 **4- External Reviewer in Real-time System Symposium RTSS 2021.** [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=962239)
 
