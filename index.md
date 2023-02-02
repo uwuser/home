@@ -1,7 +1,7 @@
 
 ## Reza Mirosanlou
 
-I am currently a **Senior Sillicon Design Engineer** at **AMD**, focusing on performane of I/O module designs for the next generation of AMD products including client, data centre, and server processors. I completed my **Ph.D.** in Computer Engineering at the **University of Waterloo** in December 2021, and my research has contributed to several publications in "shared hardware arbitration and high-performance frameworks for real-time systems". I am known for collaborating very effectively and leadding skills in research projects. I have extensive research expertise in real-time systems and I have serrved as either Technical Program Committee member or reviewer of premier real-time conferences and symposiums including **RTAS, RTSS, ECRTS, and RTNS**. Before the Ph.D program at University of Waterloo, I have received my **M.Sc.** from **Sharif University of Technology** in Computer Engineering.
+I am currently **Staff Engineer** at **AMD**, focusing on performane of I/O module designs for the next generation of AMD products including client, data centre, and server processors. I completed my **Ph.D.** in Computer Engineering at the **University of Waterloo** in December 2021, and my research has contributed to several publications in "shared hardware arbitration and high-performance frameworks for real-time systems". I have extensive research expertise in real-time systems and I have serrved as either Technical Program Committee member or reviewer of premier real-time conferences and symposiums including **RTAS, RTSS, ECRTS, and RTNS**. Before the Ph.D program at University of Waterloo, I have received my **M.Sc.** from **Sharif University of Technology** in Computer Engineering.
 
 ### Education:
 
@@ -12,6 +12,7 @@ I am currently a **Senior Sillicon Design Engineer** at **AMD**, focusing on per
 **BS.c.** in Computer Engineering, University of Guilan
 
 ### Awards:
+**9- AMD Leadership Recognition Award**, AMD, October 2022.
 
 **8- Doctoral Thesis Completion Award (DTCA)**, University of Waterloo, September 2021.
 
