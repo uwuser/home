@@ -50,11 +50,9 @@ Secretary of Professional Activities with IEEE Canada Kitchener/Waterloo Section
 
 ### Publications:
 
-11- **Mirosanlou, R.**, Hassan, M., Pellizzoni, R.. Parallelism-Aware High-Performance Cache Coherence with Tight Latency Bounds. To appear at **34th Euromicro Conference on Real-Time Systems (ECRTS 2022), Modena, Italy, 2022**. [Link](https://www.ecrts.org/conference-program/) 
+10- Kloda, T., Gracioli, G., Tabish, R., **Mirosanlou, R.**, Mancuso, R., Pellizzoni, R., Caccamo, M.. Lazy Load Scheduling for Mixed-Criticality Applications Heterogeneous MPSoCs. Accepted at **ACM Transaction on Embedded Computing Systems (TECS)**.****
 
-10- Kloda, T., Gracioli, G., Tabish, R., **Mirosanlou, R.**, Mancuso, R., Pellizzoni, R., Caccamo, M.. Lazy Load Scheduling for Mixed-Criticality Applications Heterogeneous MPSoCs. In submission at **ACM Transaction on Embedded Computing Systems (TECS)**.
-
-9- Tabish, R., Pellizzoni, R., Mancuso, R., Gracioli, G., **Mirosanlou, R.**, Caccamo, M.. X-Stream: Accelerating Streaming Segments on Modern MPSoCs. **Under preparation**.
+9- **Mirosanlou, R.**, Hassan, M., Pellizzoni, R.. Parallelism-Aware High-Performance Cache Coherence with Tight Latency Bounds. To appear at **34th Euromicro Conference on Real-Time Systems (ECRTS 2022), Modena, Italy, 2022**. [Link](https://www.ecrts.org/conference-program/)
 
 8- **Mirosanlou, R.**, Hassan, M., & Pellizzoni, R.. DuoMC: Tight DRAM Latency Bounds with Shared Banks and Near-COTS Performance. Accepted in **ACM International Symposium on Memory Systems (MEMSYS'21)**, Washington D.C., USA, 2021. [Download PDF]()
 
