@@ -49,9 +49,9 @@ Secretary of Professional Activities with IEEE Canada Kitchener/Waterloo Section
 
 
 ### Publications:
-11- Tabish, R., Pellizzoni, Mancuso, R., R., Gracioli, G., **Mirosanlou, R.**, Caccamo, M.. X-Stream: Accelerating streaming segments on MPSoCs for real-time applications. **Journal of Systems Architecture**.
+11- Tabish, R., Pellizzoni, Mancuso, R., R., Gracioli, G., **Mirosanlou, R.**, Caccamo, M.. X-Stream: Accelerating streaming segments on MPSoCs for real-time applications. **Journal of Systems Architecture**.[Link](https://www.sciencedirect.com/science/article/abs/pii/S138376212300036X)
 
-10- Kloda, T., Gracioli, G., Tabish, R., **Mirosanlou, R.**, Mancuso, R., Pellizzoni, R., Caccamo, M.. Lazy Load Scheduling for Mixed-Criticality Applications Heterogeneous MPSoCs. **ACM Transaction on Embedded Computing Systems (TECS)**
+10- Kloda, T., Gracioli, G., Tabish, R., **Mirosanlou, R.**, Mancuso, R., Pellizzoni, R., Caccamo, M.. Lazy Load Scheduling for Mixed-Criticality Applications Heterogeneous MPSoCs. **ACM Transaction on Embedded Computing Systems (TECS)** [Link](https://dl.acm.org/doi/abs/10.1145/3587694)
 
 9- **Mirosanlou, R.**, Hassan, M., Pellizzoni, R.. Parallelism-Aware High-Performance Cache Coherence with Tight Latency Bounds. To appear at **34th Euromicro Conference on Real-Time Systems (ECRTS 2022), Modena, Italy, 2022**. [Link](https://www.ecrts.org/conference-program/)
 
