@@ -49,7 +49,7 @@ Secretary of Professional Activities with IEEE Canada Kitchener/Waterloo Section
 
 
 ### Publications:
-11- Tabish, R., Pellizzoni, Mancuso, R., R., Gracioli, G., **Mirosanlou, R.**, Caccamo, M.. X-Stream: Accelerating streaming segments on MPSoCs for real-time applications. **Journal of Systems Architecture**.[Link](https://www.sciencedirect.com/science/article/abs/pii/S138376212300036X)
+11- Tabish, R., Pellizzoni, Mancuso, R., R., Gracioli, G., **Mirosanlou, R.**, Caccamo, M.. X-Stream: Accelerating streaming segments on MPSoCs for real-time applications. **Journal of Systems Architecture**. [Link](https://www.sciencedirect.com/science/article/abs/pii/S138376212300036X)
 
 10- Kloda, T., Gracioli, G., Tabish, R., **Mirosanlou, R.**, Mancuso, R., Pellizzoni, R., Caccamo, M.. Lazy Load Scheduling for Mixed-Criticality Applications Heterogeneous MPSoCs. **ACM Transaction on Embedded Computing Systems (TECS)** [Link](https://dl.acm.org/doi/abs/10.1145/3587694)
 
