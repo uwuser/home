@@ -1,7 +1,7 @@
 
 ## Reza Mirosanlou
 
-I am currently **Staff Engineer** at **AMD**, focusing on performane of I/O module designs for the next generation of AMD AI and Data Cener products. I completed my **Ph.D.** in Computer Engineering at the **University of Waterloo** in December 2021, and my research has contributed to several publications in "shared hardware arbitration and high-performance frameworks for real-time systems". I have extensive research expertise in real-time systems and I have serrved as either Technical Program Committee member or reviewer of premier real-time conferences and symposiums including **RTAS, RTSS, ECRTS, and RTNS**. Before the Ph.D program at University of Waterloo, I have received my **M.Sc.** from **Sharif University of Technology** in Computer Engineering.
+I am currently **Staff Engineer** at **AMD**, focusing on performance of I/O designs for the next generation of AMD AI and Data Center products. Completed my **Ph.D.** in Computer Engineering at the **University of Waterloo** in December 2021, and my research has contributed to several publications in "shared hardware arbitration and high-performance frameworks for real-time systems". I have extensive research expertise in real-time systems and I have served as either Technical Program Committee member or reviewer of premier real-time conferences and symposiums including **RTAS, RTSS, ECRTS, and RTNS**. Before Ph.D program at University of Waterloo, I have received my **M.Sc.** from **Sharif University of Technology** in Computer Engineering.
 
 ### Education:
 
